@@ -1,0 +1,2 @@
+# wifimatch_compare
+用于描述在一些开阔区域wifi匹配效果很差的情况
